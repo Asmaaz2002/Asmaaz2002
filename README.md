@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  A passionate <strong>Computer Engineer & Programmer</strong> 💻 <br>
-  Interested in <strong>Artificial Intelligence</strong>, <strong>Flutter Development</strong>, 
-  <strong>Python</strong>, <strong>C++</strong>, and <strong>IoT</strong>.
+  <strong>Computer Science Student</strong> 💻 <br>
+  Passionate about <strong>Artificial Intelligence</strong>, <strong>Flutter Development</strong>, 
+  <strong>Python</strong>, <strong>C++</strong>, and <strong>Internet of Things (IoT)</strong>.
 </p>
 
 <p align="center">
-  I enjoy building <strong>smart, practical solutions</strong>, exploring modern technologies,  
-  and continuously improving my skills through real-world, hands-on projects 🚀
+  I enjoy building <strong>smart and practical solutions</strong>, exploring modern technologies,  
+  and continuously improving my skills through hands-on projects 🚀
 </p>
 
 <hr>
@@ -22,8 +22,8 @@
 <h3>👩‍💻 What I'm Working On</h3>
 <ul>
   <li>📱 Developing cross-platform mobile applications using <strong>Flutter</strong></li>
-  <li>🤖 Experimenting with <strong>AI & Machine Learning</strong> models</li>
-  <li>🔌 Building <strong>IoT prototypes</strong> and embedded systems</li>
+  <li>🤖 Experimenting with <strong>AI & Machine Learning</strong></li>
+  <li>🔌 Creating <strong>IoT prototypes</strong> and smart systems</li>
 </ul>
 
 <hr>
@@ -33,14 +33,8 @@
   <a href="https://github.com/Asmaaz2002">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-14c767?style=flat-square&logo=medium&logoColor=white">
-  </a>
-  <a href="https://dev.to/">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white">
+  <a href="https://www.instagram.com/asmaa_z2002">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -68,7 +62,7 @@
 <h3>🎯 Goals</h3>
 <ul>
   <li>Build AI-powered mobile applications 📱✨</li>
-  <li>Create smart IoT & home automation projects 🏠</li>
+  <li>Create smart IoT projects 🏠</li>
   <li>Contribute to open-source communities 🌍</li>
 </ul>
 

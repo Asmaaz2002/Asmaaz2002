@@ -33,8 +33,8 @@
   <a href="https://github.com/Asmaaz2002">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/asmaa_z2002">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  <a href="https://t.me/asmaa_z2002">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white">
   </a>
 </p>
 

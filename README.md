@@ -8,22 +8,20 @@
 
 <p align="center">
   <strong>Computer Science Student</strong> 💻 <br>
-  Passionate about <strong>Artificial Intelligence</strong>, <strong>Flutter Development</strong>, 
-  <strong>Python</strong>, <strong>C++</strong>, and <strong>Internet of Things (IoT)</strong>.
+  Passionate about <strong>Python</strong> and <strong>Artificial Intelligence</strong>.
 </p>
 
 <p align="center">
-  I enjoy building <strong>smart and practical solutions</strong>, exploring modern technologies,  
-  and continuously improving my skills through hands-on projects 🚀
+  I enjoy building <strong>smart solutions</strong>, exploring modern technologies,  
+  and improving my skills through hands-on projects 🚀
 </p>
 
 <hr>
 
 <h3>👩‍💻 What I'm Working On</h3>
 <ul>
-  <li>📱 Developing cross-platform mobile applications using <strong>Flutter</strong></li>
-  <li>🤖 Experimenting with <strong>AI & Machine Learning</strong></li>
-  <li>🔌 Creating <strong>IoT prototypes</strong> and smart systems</li>
+  <li>🤖 Learning and experimenting with <strong>AI & Machine Learning</strong></li>
+  <li>🐍 Building Python projects and automation tools</li>
 </ul>
 
 <hr>
@@ -43,11 +41,7 @@
 <h3>💻 Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white">
 </p>
 
 <hr>
@@ -55,15 +49,13 @@
 <h3>🌱 Currently Learning</h3>
 <ul>
   <li>Advanced AI & Machine Learning 🤖</li>
-  <li>Flutter UI/UX & State Management 🎨</li>
-  <li>Embedded Systems & IoT 🔧</li>
+  <li>Python for Data Science 📊</li>
 </ul>
 
 <h3>🎯 Goals</h3>
 <ul>
-  <li>Build AI-powered mobile applications 📱✨</li>
-  <li>Create smart IoT projects 🏠</li>
-  <li>Contribute to open-source communities 🌍</li>
+  <li>Build AI-powered applications 📱✨</li>
+  <li>Develop smart automation tools using Python 🐍</li>
 </ul>
 
 <p align="center">
